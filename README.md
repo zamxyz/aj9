@@ -1,3 +1,4 @@
+![FB_IMG_16339712890451297](https://user-images.githubusercontent.com/79139059/136941698-0c45ace2-e5cc-44d3-b8d3-6f9aacfaa1f4.jpg)
 # 》Install Script
 
 $ pkg update && upgrade
