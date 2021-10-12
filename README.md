@@ -23,5 +23,5 @@ $ cd hoshinova
 
 $ git pull
 
-$ python2 moona.py
+$ python2 moona.wangy
 
